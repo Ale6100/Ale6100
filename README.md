@@ -4,8 +4,8 @@
 
 * Tengo varios proyectos en marcha que utilizan distintas tecnologías, tanto en el ámbito laboral como a nivel personal. A continuación, puedes ver las que más utilizo:
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale6100&layout=pie&theme=algolia&locale=es&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Lenguajes más usados"/>
+<p align="center">  <!-- Tuve que quitar Jupyter Notebook de este cálculo ya que debido a su peso aportaba un porcentaje alejando de la realidad -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale6100&layout=pie&hide=jupyter%20notebook&theme=algolia&locale=es&langs_count=10&size_weight=0.6&count_weight=0.4" alt="Lenguajes más usados"/>
 </p>
 
 * Si tienes alguna pregunta no dudes en consultarme!
