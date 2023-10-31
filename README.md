@@ -1,7 +1,7 @@
 
 # Bienvenido a mi GitHub 😄
 
-* Principales proyectos
+* Principales proyectos personales
 <div align="center">
 
 | Nombre | Repositorio | URL | Estado | Herramienta |
@@ -24,7 +24,7 @@
 | Primer maquetado | [Click aquí](https://github.com/Ale6100/Primer-maquetado-web.git) | [Click aquí](https://apoyoestudios.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lengu告 Principal](https://img.shields.io/github/languages/top/Ale6100/Primer-maquetado-web?color=E34F26) |
 </div>
 
-Tal como puedes observar, tengo varios proyectos en marcha que utilizan distintas tecnologías tanto en el ámbito laboral como a nivel personal. A continuación, puedes ver las que más utilizo:
+* Tengo varios proyectos en marcha que utilizan distintas tecnologías tanto en el ámbito laboral como a nivel personal. A continuación, puedes ver las que más utilizo:
 
 <p align="center">  <!-- Tuve que quitar Jupyter Notebook de este cálculo ya que debido a su peso aportaba un porcentaje alejando de la realidad -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale6100&layout=pie&hide=jupyter%20notebook&theme=algolia&locale=es&langs_count=20&size_weight=0.6&count_weight=0.4" alt="Lenguajes más usados"/>
