@@ -4,7 +4,7 @@
 * Principales proyectos personales
 <div align="center">
 
-| Nombre | Repositorio | URL | Estado | Herramienta |
+| Nombre | Repositorio | Deploy | Estado | Herramienta |
 | :--- | :--- | :--- | :--- | :--- |
 | Portfolio | [Click aquí](https://github.com/Ale6100/Portfolio.git) | [Click aquí](https://portfolioalejandrop.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Portfolio?color=007ACC) |
 | E-commerce | [Click aquí](https://github.com/Ale6100/Curso-backend.git) | [Click aquí](https://proyectocompleto.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Curso-backend?color=007ACC) |
@@ -20,6 +20,7 @@
 | Proyecto Polo IT | [Click aquí](https://github.com/Ale6100/Proyecto-Polo-IT.git) | [Click aquí](https://proyecto-polo-it.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Proyecto-Polo-IT?color=F7DF1E) |
 | E-commerce Flask y Vue | [Click aquí](https://github.com/Ale6100/E-commerce-Python-Flask-Vue.git) | Pendiente | ![Static Badge](https://img.shields.io/badge/En%20proceso-blue) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/E-commerce-Python-Flask-Vue?color=42b782) |
 | Lucy | [Click aquí](https://github.com/Ale6100/Lucy.git) | [Click aquí](https://lucy-ia.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Lucy?color=007ACC) |
+| Componentes React | [Click aquí](https://github.com/Ale6100/Componentes.git) | [Click aquí](https://miscomponentes.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Componentes?color=007ACC) |
 | Asistente Virtual Python | [Click aquí](https://github.com/Ale6100/Asistente-Virtual-Python.git) | No aplica | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Asistente-Virtual-Python?color=3776AB) |
 | Plan de Estudios | [Click aquí](https://github.com/Ale6100/plan-de-estudios.git) | [Click aquí](https://progresocarrera.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/plan-de-estudios?color=007ACC) |
 | Primer proyecto ReactJS | [Click aquí](https://github.com/Ale6100/Proyecto-React-Js.git) | [Click aquí](https://spacetravels.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Proyecto-React-Js?color=F7DF1E) |
