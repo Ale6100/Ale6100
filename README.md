@@ -35,15 +35,9 @@
 
 * Tengo varios proyectos en marcha que utilizan distintas tecnologías tanto en el ámbito laboral como a nivel personal. A continuación, puedes ver las que más utilizo:
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ale6100&layout=pie&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=algolia&locale=es&langs_count=20" alt="Lenguajes más usados"/>
-  </picture>
-</div>
+<p align="center">  <!-- Tuve que quitar Jupyter Notebook de este cálculo ya que debido a su peso aportaba un porcentaje alejando de la realidad -->
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ale6100&layout=pie&hide=jupyter%20notebook&theme=algolia&locale=es&langs_count=20&size_weight=0.6&count_weight=0.4" alt="Lenguajes más usados"/>
+</p>
 
 Ten en cuenta que estos datos se basan exclusivamente en mis repositorios públicos, por lo que tecnologías como PHP y GO no se contabilizan.
 
