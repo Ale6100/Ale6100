@@ -1,12 +1,14 @@
-
 # Bienvenido a mi GitHub 😄
 
 * Principales proyectos personales
+
 <div align="center">
 
 | Nombre | Repositorio | Deploy | Estado | Herramienta |
 | :--- | :--- | :--- | :--- | :--- |
 | Portfolio | [Click aquí](https://github.com/Ale6100/Portfolio.git) | [Click aquí](https://portfolioalejandrop.vercel.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Portfolio?color=007ACC) |
+| Mi salario | [Click aquí](https://github.com/Ale6100/Mi-salario-auth.git) | [Click aquí](https://mi-salario-auth.netlify.app) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Mi-salario-auth?color=007ACC) |
+| Mi salario (backend) | [Click aquí](https://github.com/Ale6100/Mi-salario-auth-backend.git) | No aplica | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Mi-salario-auth-backend?color=007ACC) |
 | E-commerce | [Click aquí](https://github.com/Ale6100/Curso-backend.git) | [Click aquí](https://proyectocompleto.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Curso-backend?color=007ACC) |
 | Juego Buscagatos | [Click aquí](https://github.com/Ale6100/Buscagatos_primer_juego_JS.git) | [Click aquí](https://buscagatos.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Buscagatos_primer_juego_JS?color=F7DF1E) |
 | Módulo en npm | [Click aquí](https://github.com/Ale6100/codigos-utiles-ap.git) | [Click aquí](https://www.npmjs.com/package/codigos-utiles-ap) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/codigos-utiles-ap?color=007ACC) |
@@ -28,13 +30,20 @@
 | Animaciones simples | [Click aquí](https://github.com/Ale6100/animaciones-python.git) | No aplica | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/animaciones-python?color=F37626) |
 | Asistente Virtual JavaScript | [Click aquí](https://github.com/Ale6100/Asistente-Virtual-JS.git) | [Click aquí](https://asistentevirtual.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Sustituido-red) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Asistente-Virtual-JS?color=F7DF1E) |
 | Primer maquetado | [Click aquí](https://github.com/Ale6100/Primer-maquetado-web.git) | [Click aquí](https://apoyoestudios.netlify.app/) | ![Static Badge](https://img.shields.io/badge/Estable-green) | ![Lenguaje Principal](https://img.shields.io/github/languages/top/Ale6100/Primer-maquetado-web?color=E34F26) |
+
 </div>
 
 * Tengo varios proyectos en marcha que utilizan distintas tecnologías tanto en el ámbito laboral como a nivel personal. A continuación, puedes ver las que más utilizo:
 
-<p align="center">  <!-- Tuve que quitar Jupyter Notebook de este cálculo ya que debido a su peso aportaba un porcentaje alejando de la realidad -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale6100&layout=pie&hide=jupyter%20notebook&theme=algolia&locale=es&langs_count=20&size_weight=0.6&count_weight=0.4" alt="Lenguajes más usados"/>
-</p>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ale6100&layout=pie&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=algolia&locale=es&langs_count=20" alt="Lenguajes más usados"/>
+  </picture>
+</div>
 
 Ten en cuenta que estos datos se basan exclusivamente en mis repositorios públicos, por lo que tecnologías como PHP y GO no se contabilizan.
 
